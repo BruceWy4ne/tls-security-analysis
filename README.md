@@ -298,13 +298,3 @@ TLS protects web traffic against:
 * Wireshark Documentation
 * OpenSSL Documentation
 * badssl.com
-
----
-
-## Author
-
-Rishi Solanki
-
-M.Eng Cybersecurity Engineering
-
-University of Maryland
